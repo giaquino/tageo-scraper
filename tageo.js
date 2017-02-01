@@ -3,25 +3,28 @@ var cheerio = require('cheerio');
 var geohash = require('geo-hash');
 
 //scrapes tageo url to get `city`, `lat`, `lng`, `geohash`
+//how to use: node tageo.js tageo_url_to_cities
 
 var url = process.argv[2];
 
 request(url, function(err, res, body) {
-  if (err) throw err;
+  if (err) {
+    throw err;
+  }
   $ = cheerio.load(body);
-  //each row
-  $('.V2 tr').each(function(i) {
-    //skip headers
-    if (i === 0) return;
+  $('.V2 tr').each(function(i) { //each table row
+    if (i === 0) return; //skip headers
     var data = [];
     $(this).find('td').each(function(index, tag) {
       if (index === 0) return; //rank
       if (index === 2) return; //population
       var text = $(this).text();
-      if (text.toString().trim() === '') return; //empty
+      if (text.toString().trim() === '') return; //dont include ''
       data.push(text);
     });
-    if (data.length === 3) data.push(geohash.encode(data[1], data[2]));
+    if (data.length === 3) { //check if coordinates exist
+      data.push(geohash.encode(data[1], data[2]));
+    }
     console.log(data.join(','));
   });
 });

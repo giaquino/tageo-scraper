@@ -1,0 +1,60 @@
+Jakarta,-6.180,106.830,qqguyfznzkt8
+Surabaya,-7.240,112.740,qw8nv3yzbqhv
+Bandung,-6.910,107.600,qqu88qpfmdxh
+Medan,3.590,98.670,w0whmm9338s8
+Palembang,-2.990,104.750,qr6qzxstgzt5
+Tangerang,-6.180,106.630,qqguf6vwghdb
+Semarang,-6.970,110.420,qqy82ejku3zd
+Makasar,-5.140,119.410,qxhfv0r9qdt3
+Malang,-7.980,112.620,qw84der3hhnm
+Bekasi,-6.220,106.970,qquhd5tjvevn
+Bandar lampung,-5.440,105.270,qr4c53xm8y3r
+Bogor,-6.580,106.790,qqgfw44her57
+Padang,-0.950,100.350,qpz6ee09u7pm
+Surakarta,-7.570,110.820,qqwucvbtt1tp
+Banjarmasin,-3.330,114.590,qx3mp9ccke0b
+Pekan baru,0.560,101.430,w205hjgn4r9d
+Samarinda,-0.500,117.150,qxgm1ufp2c5r
+Pontianak,-0.020,109.340,qrvzbh6gqxtp
+Denpasar,-8.650,115.220,qw3yvckdhe5h
+Yogyakarta,-7.780,110.370,qqw7xx8ypquu
+Depok,-6.390,106.830,qqggwuxpx3tt
+Cimahi,-6.830,107.480,qqu3ju8s3e8x
+Balikpapan,-1.260,116.830,qxg0fd95bqfp
+Jambi,-1.590,103.610,qr9wvww3xfx8
+Manado,1.500,124.840,wb2b8c1dnu6b
+Mataram,-8.580,116.130,qw6x4w53chh4
+Ciputat,-6.230,106.680,qqgue9f585v6
+Pondokgede,-6.280,106.950,qquh38y87ehh
+Cirebon,-6.710,108.560,qqv1y66zrm74
+Kediri,-7.810,112.010,qqxesf5pqnmx
+Tegal,-6.860,109.130,qqv8gr4j973f
+Pekalongan,-6.880,109.660,qqvbz7ecp5n9
+Jember,-8.170,113.690,qw8ce0dw3187
+Ambon,-3.700,128.160,qz74uq7mbqn2
+Banda aceh,5.550,95.320,w0gz943ghfzx
+Cilacap,-7.340,109.000,qqtw0rg3khff
+Bengkulu,-3.800,102.250,qr2dqu0pmswj
+Cimanggis,-6.320,106.730,qqguh9qrm685
+Purwokerto,-7.430,109.240,qqtttz6jh7xg
+Pematang siantar,2.960,99.060,w0w2y4v71rcx
+Ciomas,-6.600,106.750,qqgfmnsbpqc4
+Tasikmalaya,-7.320,108.210,qqsyq7kjgv05
+Madiun,-7.630,111.510,qqxk97p052fm
+Karawang,-6.300,107.280,qquk1jngv4vu
+Kendari,-3.970,122.590,qxr1mt734437
+Palu,-0.900,119.840,qxv4zh0v47ud
+Bitung,1.460,125.190,wb302cb947tz
+Binjai,3.600,98.480,w0wh2zqgw2dk
+Pasuruan,-7.640,112.900,qw8k915mb8v8
+Kupang,-10.170,123.570,qwpy5usgmww6
+Probolinggo,-7.760,113.200,qw87zgmdxpju
+Percut sei tuan,3.680,98.750,w0whzjgt9c8z
+Batam,1.030,103.920,w21vug80ptbm
+Waru,-7.380,112.650,qw8n52t0rk21
+Serang,-6.110,106.150,qqgmpx8ndm2y
+Palangka raya,-2.210,113.920,qx952mdjb6hs
+Tebingtinggi,3.330,99.140,w0w6zypw9kvz
+Cilegon,-5.940,106.000,qqgqhndugp8x
+Sukabumi,-6.920,106.920,qqu09h2b0dd2
+Cianjur,-6.820,107.140,qqu1nn2ywgy7
